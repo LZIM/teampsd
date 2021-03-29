@@ -1,5 +1,41 @@
 # LucidCharts
 
+We're growing and everyone will need to show others how to use LucidCharts.
+
+## Process 
+
+1. Passwords: Team PSD Folder within VA
+2. Folders
+3. Files
+
+Templates: For Flow Maps, etc. 
+
+I want to start from a template:
+File -> New -> From Template
+
+I want to create a new template for the team:
+File -> Convert to Template
+
+4. VA Operating System
+
+Font: Set up w/Myriad Pro everywhere, anyway, so that if a users' system has Myriad Pro, it will pick it up.
+You can select all using CTRL + A (Windows) or CMD + A (Mac).
+
+Font size: 11 (figures, Myriad) or 12 (peer reviewed manuscript, Arial or Times New Roman)
+
+5. Team PSD style
+
+Myriad Pro, 11-point font
+- Bold user name
+- Non-bold user role below in parantheses
+
+Check your spelling, punctuation.
+Check for clear, concise language.
+Remove any abbreviations that might be misunderstood.
+
+Co-Editing each Other:
+We were crawling over the documents in real-time, the key is a shared understanding to make consistent clear edits to convey ideas to others.
+
 ## Create a Flow Map
 
 ![Create a flow map image](https://user-images.githubusercontent.com/59668647/96020955-a2907900-0e03-11eb-9d36-9e113e6e02e5.png)
