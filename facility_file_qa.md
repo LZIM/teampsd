@@ -21,25 +21,25 @@ See TeamPSD > quant_workgroup > splash_pages > Splashpage_monthly_update_readme
 2. Interactability: Click on them and try filtering to different options
 3. Accuracy: Check that the data is appropriate for selection (i.e. divisionname should match the facility selected, should not be seeing health factor teamplates in encounters)
 
-#### vizDiag
+### vizDiag
 - [ ] Propagation spans two years on the table and graph through the previous month.
 - [ ] "Reset Pivot Chart" button exists above the graph and resets the data when clicked after filtering in the table and graph in the following steps.
 
-  #### Table
+#### Table
   - [ ] Displays visit counts of 4 primary diagnoses of interest: PTSD, Depression, AUD, & OUD
   - [ ] Grab 5 data points and cross-reference on graph to make sure table <> graph rendering is working
   
-  Test the dropdowns:
-  - [ ] divisionname
-  - [ ] locationname
+      Test the dropdowns:
+      - [ ] divisionname
+      - [ ] locationname
 
-  #### Graph
+#### Graph
   - [ ] Displays visit count trend lines of 4 primary diagnoses of interest: PTSD, Depression, AUD, & OUD
 
- Test the buttons:
-  - [ ] divisionname
-  - [ ] locatoinname
-  - [ ] visitdatetime(Year)
-  - [ ] visitdatetime(Month)
+      Test the buttons:
+       - [ ] divisionname
+       - [ ] locatoinname
+       - [ ] visitdatetime(Year)
+       - [ ] visitdatetime(Month)
 
 
