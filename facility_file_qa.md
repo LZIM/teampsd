@@ -24,6 +24,7 @@ See TeamPSD > quant_workgroup > splash_pages > Splashpage_monthly_update_readme
 ### vizDiag
 - [ ] Propagation spans two years on the table and graph through the previous month.
 - [ ] "Reset Pivot Chart" button exists above the graph and resets the data when clicked after filtering in the table and graph in the following steps.
+- [ ] No SSN
 
 #### Table
   - [ ] Displays visit counts of 4 primary diagnoses of interest: PTSD, Depression, AUD, & OUD
@@ -43,3 +44,29 @@ See TeamPSD > quant_workgroup > splash_pages > Splashpage_monthly_update_readme
        - [ ] visitdatetime(Month)
 
 
+### vizEnc
+- [ ] Propagation spans two years on the table and graph through the previous month.
+- [ ] "Reset Pivot Chart" button exists above the graph and resets the data when clicked after filtering in the table and graph in the following steps.
+- [ ] No SSN
+
+
+### vizHF
+- [ ] Propagation spans two years on the table and graph through the previous month.
+- [ ] "Reset Pivot Chart" button exists above the graph and resets the data when clicked after filtering in the table and graph in the following steps.
+- [ ] No SSN
+
+
+### vizMeas
+- [ ] Propagation spans two years on the table and graph through the previous month.
+- [ ] "Reset Pivot Chart" button exists above the graph and resets the data when clicked after filtering in the table and graph in the following steps.
+- [ ] No SSN
+
+
+
+### dataEnc
+
+### dataDiag
+
+### dataHF
+
+### dataMeas
